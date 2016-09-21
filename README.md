@@ -7,7 +7,7 @@ LeetCode解题报告
 258. Add Digits https://github.com/AceXIE/LeetCode/blob/master/src/AddDigits.java
 104. Maximum Depth of Binary Tree https://github.com/AceXIE/LeetCode/blob/master/src/MaximumDepthofBinaryTree.java
 389. Find the Difference https://github.com/AceXIE/LeetCode/blob/master/src/FindtheDifference.java
-
+226. Invert Binary Tree 
 
 
 
