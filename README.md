@@ -8,7 +8,7 @@ LeetCode解题报告
 104. Maximum Depth of Binary Tree https://github.com/AceXIE/LeetCode/blob/master/src/MaximumDepthofBinaryTree.java
 389. Find the Difference https://github.com/AceXIE/LeetCode/blob/master/src/FindtheDifference.java
 226. Invert Binary Tree https://github.com/AceXIE/LeetCode/blob/master/src/InvertBinaryTree.java
-283. Move Zeroes 
+283. Move Zeroes https://github.com/AceXIE/LeetCode/blob/master/src/MoveZeroes.java
 
 
 
