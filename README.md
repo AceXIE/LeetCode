@@ -11,6 +11,6 @@ LeetCode解题报告
 283. Move Zeroes https://github.com/AceXIE/LeetCode/blob/master/src/MoveZeroes.java
 401. Binary Watch https://github.com/AceXIE/LeetCode/blob/master/src/BinaryWatch.java
 383. Ransom Note https://github.com/AceXIE/LeetCode/blob/master/src/RansomNote.java
-349. Intersection of Two Arrays 
+349. Intersection of Two Arrays https://github.com/AceXIE/LeetCode/blob/master/src/IntersectionofTwoArrays.java
 
 
