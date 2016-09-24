@@ -20,7 +20,7 @@ public class FindtheDifference {
         	maxString = s;
         }
         
-        HashMap<Character, Integer> map = new HashMap<>();
+        HashMap<Character, Integer> map = new HashMap<Character, Integer>();
         for (int i = 0; i < minString.length(); i++) {
         	char c = minString.charAt(i);
         	if (map.containsKey(c)) {
