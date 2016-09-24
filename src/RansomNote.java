@@ -14,10 +14,11 @@ public class RansomNote {
 		if (ransomNote == null) return false;
 		int lenr = ransomNote.length(), lenm = magazine.length();
 		if (lenm == 0 && lenr > 0) return false;
+		if (lenm == 0 && lenr == 0) return true;
 		if (lenr == 0) return false;
 		HashMap<Character, Integer> map = new HashMap<Character, Integer>();
 		
-		for (int i = 0; i < lenr; i++) {
+		for (int i = 0; i < lenm; i++) {
 			char c = magazine.charAt(i);
 			if (!map.containsKey(c)) {
 				map.put(c, 1);
