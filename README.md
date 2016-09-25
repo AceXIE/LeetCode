@@ -12,5 +12,5 @@ LeetCode解题报告
 401. Binary Watch https://github.com/AceXIE/LeetCode/blob/master/src/BinaryWatch.java
 383. Ransom Note https://github.com/AceXIE/LeetCode/blob/master/src/RansomNote.java
 349. Intersection of Two Arrays https://github.com/AceXIE/LeetCode/blob/master/src/IntersectionofTwoArrays.java
-
+242. Valid Anagram 
 
