@@ -13,7 +13,7 @@ LeetCode解题报告
 383. Ransom Note https://github.com/AceXIE/LeetCode/blob/master/src/RansomNote.java
 349. Intersection of Two Arrays https://github.com/AceXIE/LeetCode/blob/master/src/IntersectionofTwoArrays.java
 242. Valid Anagram https://github.com/AceXIE/LeetCode/blob/master/src/ValidAnagram.java
-387. First Unique Character in a String 
+387. First Unique Character in a String https://github.com/AceXIE/LeetCode/blob/master/src/FirstUniqueCharacterinaString.java
 
 
 
