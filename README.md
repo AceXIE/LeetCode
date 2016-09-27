@@ -14,7 +14,7 @@ LeetCode解题报告
 349. Intersection of Two Arrays https://github.com/AceXIE/LeetCode/blob/master/src/IntersectionofTwoArrays.java
 242. Valid Anagram https://github.com/AceXIE/LeetCode/blob/master/src/ValidAnagram.java
 387. First Unique Character in a String https://github.com/AceXIE/LeetCode/blob/master/src/FirstUniqueCharacterinaString.java
-338. Counting Bits 
+338. Counting Bits https://github.com/AceXIE/LeetCode/blob/master/src/CountingBits.java
 
 
 
