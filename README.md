@@ -16,7 +16,7 @@ LeetCode解题报告
 387. First Unique Character in a String https://github.com/AceXIE/LeetCode/blob/master/src/FirstUniqueCharacterinaString.java
 338. Counting Bits https://github.com/AceXIE/LeetCode/blob/master/src/CountingBits.java
 406. Queue Reconstruction by Height 
-8. String to Integer (atoi) 
+8. String to Integer (atoi)  https://github.com/AceXIE/LeetCode/blob/master/src/StringtoInteger.java
 
 
 
