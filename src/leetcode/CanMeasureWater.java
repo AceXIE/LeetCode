@@ -7,7 +7,6 @@ package leetcode;
 import org.junit.Test;
 
 import java.util.AbstractMap;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
@@ -52,7 +51,6 @@ public class CanMeasureWater {
             stack.push(new int[] {0, 0});
             Set<Map.Entry<Integer, Integer>> set = new HashSet<>();
 
-
             while (!stack.isEmpty()) {
                 final int[] pop      = stack.pop();
                 final int   remain_x = pop[0];
@@ -81,8 +79,10 @@ public class CanMeasureWater {
             return false;
         }
     }
+
     class Pair {
         int x;
+
         int y;
 
         public Pair(int x, int y) {
